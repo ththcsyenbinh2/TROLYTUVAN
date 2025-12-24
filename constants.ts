@@ -31,8 +31,8 @@ export const MODEL_LIST = [
 export const DEFAULT_MODEL = 'gemini-3-flash-preview';
 
 
-export const TEACHER_NAME = "Trần Hoài Thanh";
-export const TEACHER_SCHOOL = "THPT Khúc Thừa Dụ";
+export const TEACHER_NAME = "Thầy Cô";
+export const TEACHER_SCHOOL = "Trường TH-THCS Yên Bình";
 
 export const INITIAL_GREETING = `Xin chào em!👋 
 Thầy/cô ở đây để đồng hành cùng em, không chỉ là những con số hay bài Toán khó, 
