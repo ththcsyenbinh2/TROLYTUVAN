@@ -251,7 +251,7 @@ function App() {
               <div className="absolute bottom-0 right-0 h-3 w-3 bg-green-500 border-2 border-white dark:border-surface-dark rounded-full"></div>
             </div>
             <div>
-              <h1 className="text-base font-bold leading-tight text-gray-900 dark:text-white">Trần Hoài Thanh</h1>
+              <h1 className="text-base font-bold leading-tight text-gray-900 dark:text-white">GV THCS YÊN BÌNH</h1>
               <p className="text-xs text-primary font-medium">Đang hoạt động</p>
             </div>
           </div>
