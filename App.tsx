@@ -277,10 +277,10 @@ function App() {
               <div className="flex-1">
                 <div className="flex items-center text-xs text-gray-500 dark:text-gray-400 mb-2">
                   <span className="material-icons-round text-sm mr-1 text-primary">school</span>
-                  <span>GV Toán - THPT Khúc Thừa Dụ</span>
+                  <span>GV - THCS YÊN BÌNH</span>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                  <span className="px-2 py-1 bg-green-50 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-[10px] font-bold uppercase rounded-lg border border-green-100 dark:border-green-800">Toán 10-12</span>
+                  <span className="px-2 py-1 bg-green-50 dark:bg-green-900/30 text-green-700 dark:text-green-300 text-[10px] font-bold uppercase rounded-lg border border-green-100 dark:border-green-800">Toán THCS-THPT</span>
                   <span className="px-2 py-1 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-[10px] font-bold uppercase rounded-lg border border-blue-100 dark:border-blue-800">Nhiệt tình</span>
                 </div>
               </div>
